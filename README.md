@@ -1,6 +1,6 @@
 # Color Profiles: ECI
 
-This repository provides an organized collection of color profiles from the European Color Initiative (ECI). It’s intended to be installed for Adobe Creative Cloud, but can be adapted for any other workflow. The set contains all current profiles as well as ECI Offset 2009 for legacy reasons.
+This repository provides an organized collection of color profiles from the European Color Initiative (ECI). It’s intended to be installed for Adobe Creative Cloud, but can be adapted for any other workflow. The set contains all current profiles as well as ECI Offset 2009 for legacy reasons. It’s the base for the optional available Adobe CC [color settings](https://github.com/grommasdietz/color-settings/).
 
 ## Table of Contents
 
