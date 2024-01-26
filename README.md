@@ -1,8 +1,29 @@
 # Color Profiles: ECI
 
-Color profiles from ECI (European Color Initiative) for Adobe CC. The set contains all current profiles as well as ECI Offset 2009 for legacy reasons.
+This repository provides an organized collection of color profiles from the European Color Initiative (ECI). It’s intended to be installed for Adobe Creative Cloud, but can be adapted for any other workflow. The set contains all current profiles as well as ECI Offset 2009 for legacy reasons.
 
-## Content
+## Table of Contents
+
+- [Color Profiles: ECI](#user-content-color-profiles-eci)
+  - [Details](#user-content-details)
+    - [Exchange](#user-content-exchange)
+    - [Finishing](#user-content-finishing)
+    - [Gravure](#user-content-gravure)
+    - [Legacy](#user-content-legacy)
+    - [Metal](#user-content-metal)
+    - [Offset](#user-content-offset)
+    - [RGB](#user-content-rgb)
+  - [Installation](#user-content-installation)
+    - [MacOS](#user-content-macos)
+      - [Tips](#user-content-tips)
+    - [Windows](#user-content-windows)
+      - [Windows XP and Vista](#user-content-windows-xp-and-vista)
+      - [Windows 7, 8 and 10](#user-content-windows-7-8-and-10)
+      - [Windows 10+](#user-content-windows-10)
+  - [Contributions](#user-content-contributions)
+  - [Further Information](#user-content-further-informations)
+
+## Details
 
 ### Exchange
 Exchange contains 1 ICC profile (2020):
@@ -50,19 +71,46 @@ Offset contains 5 ICC profiles (2015–2017):
 - PSO SC-B Paper v3
 
 ### RGB
-RGB contains 2 ICC profiles (2007) and 1 RTF license
+RGB contains 2 ICC profiles (2007) and 1 license
 - eciRGB v2 ICCv4
 - eciRGB v2
-
 
 ## Installation
 
 Copy all folders and files to the corresponding paths:
 
 ### MacOS
-`/Library/ColorSync/Profiles`
+```
+/Library/ColorSync/Profiles
+```
 
-Tip: Use `⌥ Option + ⌘ Command + V` to merge folders
+#### Tips
+1. Copy the path and use `⇧ Shift + ⌘ Command + G` on finder for "Go to folder…". Then paste and enter to open Profiles folder.
+2. Use `⌥ Option/Alt + ⌘ Command + V` to merge folders.
 
 ### Windows
-`C:\Program Files\Common Files\Adobe\Color\Profiles`
+
+#### Windows XP and Vista
+```
+C:\Windows\System32\Spool\Drivers\Color
+```
+
+#### Windows 7, 8 and 10
+```
+C:\Windows\System32\spool\drivers\color
+```
+
+#### Windows 10+
+Starting from Windows 10, you can manage color profiles through the Settings app:
+1. Open Settings
+2. Go to System
+3. Select Display from the left sidebar
+4. Scroll down and click on Advanced display settings
+5. Under Color settings, you'll find a link to Color management
+
+## Contributions
+
+Contributions are welcome! If you encounter issues or have suggestions for improvements, feel free to create an issue.
+
+## Further informations
+For more detailed information and documentation, visit (http://www.eci.org/)[European Color Initiative (ECI)].
