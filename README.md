@@ -15,7 +15,6 @@ This repository provides an organized collection of color profiles from the Euro
     - [RGB](#user-content-rgb)
   - [Installation](#user-content-installation)
     - [MacOS](#user-content-macos)
-      - [Tips](#user-content-tips)
     - [Windows](#user-content-windows)
       - [Windows XP and Vista](#user-content-windows-xp-and-vista)
       - [Windows 7, 8 and 10](#user-content-windows-7-8-and-10)
@@ -84,9 +83,8 @@ Copy all folders and files to the corresponding paths:
 /Library/ColorSync/Profiles
 ```
 
-#### Tips
 1. Copy the path and use `⇧ Shift + ⌘ Command + G` on finder for "Go to folder…". Then paste and enter to open Profiles folder.
-2. Use `⌥ Option/Alt + ⌘ Command + V` to merge folders.
+2. Copy the folders from the downloaded repository, go to the Profiles folder and use `⌥ Option/Alt + ⌘ Command + V` to merge.
 
 ### Windows
 
@@ -110,7 +108,7 @@ Starting from Windows 10, you can manage color profiles through the Settings app
 
 ## Contributions
 
-Contributions are welcome! If you encounter issues or have suggestions for improvements, feel free to create an issue.
+Contributions are welcome! If you encounter problems or have suggestions for improvements, feel free to create an issue.
 
 ## Further informations
 For more detailed information and documentation, visit [European Color Initiative (ECI)](http://www.eci.org).
