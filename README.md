@@ -113,4 +113,4 @@ Starting from Windows 10, you can manage color profiles through the Settings app
 Contributions are welcome! If you encounter issues or have suggestions for improvements, feel free to create an issue.
 
 ## Further informations
-For more detailed information and documentation, visit (http://www.eci.org/)[European Color Initiative (ECI)].
+For more detailed information and documentation, visit [European Color Initiative (ECI)](http://www.eci.org).
