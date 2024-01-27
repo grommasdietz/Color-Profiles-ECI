@@ -20,7 +20,7 @@ This repository provides an organized collection of color profiles from the Euro
       - [Windows 7, 8 and 10](#user-content-windows-7-8-and-10)
       - [Windows 10+](#user-content-windows-10)
   - [Contributions](#user-content-contributions)
-  - [Further Information](#user-content-further-informations)
+  - [Further Information](#user-content-further-information)
 
 ## Collection
 
@@ -130,5 +130,5 @@ Starting from Windows 10, you can manage color profiles through the Settings app
 
 Contributions are welcome! If you encounter problems or have suggestions for improvements, feel free to create an issue.
 
-## Further informations
+## Further Information
 For more detailed information and documentation, visit [European Color Initiative (ECI)](http://www.eci.org).
