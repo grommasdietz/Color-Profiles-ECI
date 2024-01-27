@@ -103,7 +103,7 @@ Copy all folders and files to the corresponding paths:
 /Library/ColorSync/Profiles
 ```
 
-1. Copy the path and use `⇧ Shift` `⌘ Command` `G` on finder for `Go to folder…`. Then paste and enter to open the corresponding folder.
+1. Copy the path and use `⇧ Shift` `⌘ Command` `G` on finder for `Go to folder…`. Paste and enter to open the corresponding folder.
 2. Copy the folders from the downloaded repository, go to the corresponding folder and use `⌥ Option/Alt` `⌘ Command` `V` to merge.
 
 ### Windows
